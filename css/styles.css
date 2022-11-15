@@ -19,7 +19,6 @@
   }
 
 .navbar-brand h1 {    
-    font-family: 'Alfa Slab One';
     font-size: 1.5em;
     color: black;   
     margin-top: 0;
@@ -28,7 +27,6 @@
 }
 
 .text-center {
-    font-family: 'Sofia';
     font-size: 38px;
     font-weight: bold;
     position: relative;
@@ -37,12 +35,9 @@
 
 #text {       
     margin: 10px;
-    background-color: #AAA5A5;
-    font-family: 'Alfa Slab One';   
+    background-color: #AAA5A5;  
     position: relative;
 }
-
-
 
 #nav-list {
     margin-top: 10px;
@@ -51,7 +46,6 @@
 #nav-list a {
     text-align: center;
     color: black;
-    font-family: 'Alfa Slab One';
     font-weight: 100;
     background-color: #AAA5A5;
 }
